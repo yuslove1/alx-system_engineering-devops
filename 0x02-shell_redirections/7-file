@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)" | tr --delete "\\*'"$?:)"
+echo "Best School"> echo \\\*\\\\\'\"Best\ School\"\\\'\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)
