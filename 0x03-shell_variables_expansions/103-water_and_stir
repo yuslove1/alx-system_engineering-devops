@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((bestchol#$((water#$WATER+stir#$STIR))))
+printf '%o\n' $((bestchol#$((water#$WATER+stir#$STIR))))
